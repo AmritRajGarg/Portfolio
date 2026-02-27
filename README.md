@@ -3,7 +3,7 @@
 Welcome to my personal cybersecurity-themed portfolio website.  
 This project showcases my technical background, security interests, and hands-on learning journey in the field of **cybersecurity, ethical hacking, and network defense**.
 
-🌐 **Live Site:** (https://amritrajgarg.github.io/Portfolio/)
+🌐 **Live Site:** https://amritrajgarg.github.io/Portfolio/
 
 ---
 
